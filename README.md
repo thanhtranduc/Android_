@@ -6,6 +6,4 @@
 
 - Dependency injection: Dagger Hilt
 
-- Using Rxjava2 + Retrofit to fetch data
-
 # Thank you for reading.

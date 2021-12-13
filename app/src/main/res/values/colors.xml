@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="rgb_212121">#212121</color>
+    <color name="rgb_404040">#404040</color>
+    <color name="rgb_fcd052">#fcd052</color>
+    <color name="rgb_cdcdcd">#cdcdcd</color>
+    <color name="rgb_1ED07A">#1ED07A</color>
+    <color name="rgb_D2D630">#D2D630</color>
+    <color name="rgb_FFFFFF">#FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FF9A00</color>
+    <color name="transparent">#00000000</color>
+    <color name="darkGray">#3A3939</color>
+
+
+    <color name="toolbar_background">@color/rgb_212121</color>
+    <color name="home_background">@color/rgb_404040</color>
+    <color name="home_text_title">@color/rgb_fcd052</color>
+    <color name="home_most_popular_background">@color/rgb_212121</color>
+    <color name="home_most_popular_item_text">@color/rgb_cdcdcd</color>
+    <color name="home_rating_green">@color/rgb_1ED07A</color>
+    <color name="home_rating_yellow">@color/rgb_D2D630</color>
+    <color name="detail_text_genres_background">@color/rgb_FFFFFF</color>
+    <color name="detail_text">@color/rgb_cdcdcd</color>
+
+</resources>
